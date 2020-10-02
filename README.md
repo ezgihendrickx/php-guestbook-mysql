@@ -24,6 +24,3 @@ The goal of this exercise is to substitute the method you use to store data from
 
 ---
 
-## Author :black_nib:
-
-:star: Powered by Ezgi
